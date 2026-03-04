@@ -77,6 +77,13 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
+    - id: "xueqiu-hotstock"
+      name: "雪球"
+    - id: "gelonghui"
+      name: "格隆汇"
+    - id: "36kr-renqi"
+      name: "36氪"
+      
     
 
 
