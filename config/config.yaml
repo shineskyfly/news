@@ -170,7 +170,7 @@ report:
   # false: 按匹配到的热点条数排序（条数多的在前）
   sort_by_position_first: false
 
-  rank_threshold: 10                   # 排名高亮阈值
+  rank_threshold: 5                   # 排名高亮阈值
 
   max_news_per_keyword: 0             # 每个关键词最大显示数量（0=不限制）
 
